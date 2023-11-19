@@ -1,0 +1,48 @@
+body{
+   background: linear-gradient(rgb(16, 143, 182),rgb(16, 143, 182),rgb(16, 143, 182));
+}
+
+.perro{
+    display: flex;
+    background-color: rgb(16, 143, 182);
+    border-radius: 2vw;
+    width: 90vw;
+    height: 10vh;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 10px 10px 10px rgb(16, 143, 182);
+}
+
+p{
+    color: aliceblue;
+}
+.pato{
+    display: flex;
+    background-color: rgb(16, 143, 182);
+    border-radius: 2vw;
+    width: 90vw;
+    height: 10vh;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 10px 10px 10px rgb(34, 156, 150);
+}
+.gatito{
+    display: flex;
+    background-color: rgb(16, 143, 182);
+    border-radius: 2vw;
+    width: 90vw;
+    height: 15vh;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 10px 10px 10px rgb(2, 124, 161);
+}
+.loro{
+    display: flex;
+    background-color: rgb(16, 143, 182);
+    border-radius: 2vw;
+    width: 60vw;
+    height: 5vh;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 10px 10px 10px rgb(34, 156, 150);
+}
